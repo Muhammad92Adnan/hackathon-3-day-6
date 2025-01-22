@@ -3,13 +3,6 @@ import React, { useEffect, useState } from "react";
 import sanityClient from "@sanity/client";
 import Image from "next/image";
 
-import { Josefin_Sans} from "next/font/google";
-import Navbar from "../components/navbar";
-import Navbar2 from "../components/navbar2";
-
-const josefin1 = Josefin_Sans({
-  subsets: ["latin"],
-});
 
 const sanity = sanityClient({
   projectId: "tgfvld8n",
