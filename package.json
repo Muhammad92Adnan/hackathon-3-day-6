@@ -17,6 +17,7 @@
     "@sanity/client": "^6.25.0",
     "@sanity/image-url": "^1.1.0",
     "@sanity/vision": "^3.70.0",
+    "@sentry/nextjs": "^8.54.0",
     "axios": "^1.7.9",
     "bootstrap-icons": "^1.11.3",
     "dotenv": "^16.4.7",
